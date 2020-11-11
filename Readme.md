@@ -69,8 +69,8 @@ Aqui, é importante referenciar o nome dos integrantes do grupo. Não precisa de
 
 ### Exemplo:
 * Marcus Vinícius N. Garcia ([Infinitemarcus](https://github.com/Infinitemarcus))
-* Marcus Vinícius N. Garcia Junior
-* Marcus Vinícius N. Garcia Sênior - Desenvolvedor do Back-End
+* Garcia Neto Junior da Silva
+* João das Neves - Desenvolvedor do Back-End
 
 ## Demais anotações e referências (opcional)
 Aqui, o grupo pode colocar quaisquer outras informações que ache relevante, se assim desejar. Links de referências e materiais de estudo utilizados ou recomendados são sempre bem vindos. 
