@@ -80,6 +80,6 @@ Aqui, o grupo pode colocar quaisquer outras informações que ache relevante, se
 
 Para colocar imagens no Readme do Github, vocês podem usar o seguinte comando (abrir este Readme no modo raw ou como txt):
 
-![Imagem](https://github.com/Infinitemarcus/Hackerspace-template/blob/master/exemplo.png)
+![Imagem](https://github.com/hackoonspace/Hackoonspace-template/blob/master/exemplo.png)
 
 É preferível que vocês usem imagens hospedadas no próprio GitHub do projeto. É só referenciar o link delas no comando acima.
